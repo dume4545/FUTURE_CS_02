@@ -29,5 +29,4 @@ The task involved analyzing **SOC logs** to detect malicious activities, identif
 
 ## 👨‍💻 Author
 Chukwudumebi Odita - Cybersecurity Intern (Future Interns)
-- *[Your Name]* – Cyber Security Intern (Future Interns Program)
 
